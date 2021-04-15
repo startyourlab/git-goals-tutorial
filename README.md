@@ -4,11 +4,23 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# Git Goals Tutorial
+<!-- PROJECT LOGO -->
+<br />
+<p align="left">
+  <a href="https://github.com/startyourlab/website">
+    <img src="https://github.com/startyourlab/website/blob/production/static/img/logo.png" alt="Start Your Lab Logo" height="60">
+  </a>
+</p>
 
 Welcome to the **Git Goals Tutorial** repository by [Start Your Lab](https://www.startyourlab.com)!
 For the best tutorial experience, we suggest using this repository side-by-side with the official version
 hosted on our website at [this link](https://www.startyourlab.com/docs/tutorials/git-goals).
+
+## Code of Conduct
+
+Start Your Lab is committed to fostering a welcoming community.
+
+[View our Code of Conduct](https://github.com/startyourlab/.github/tree/main/CODE_OF_CONDUCT.md) for our GitHub organization.
 
 <!-- LICENSE -->
 ## License
