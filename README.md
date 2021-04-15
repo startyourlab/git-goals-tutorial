@@ -10,6 +10,16 @@ Welcome to the **Git Goals Tutorial** repository by [Start Your Lab](https://www
 For the best tutorial experience, we suggest using this repository side-by-side with the official version
 hosted on our website at [this link](https://www.startyourlab.com/docs/tutorials/git-goals).
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.md` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Start Your Lab - [@startyourlab](https://twitter.com/startyourlab) - support@startyourlab.com
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/startyourlab/git-goals-tutorial?style=for-the-badge
