@@ -1,4 +1,4 @@
-# Ari Dyckovsky
+# Ari Dyckovsky (he/him/his)
 
 ## :mortar_board: Professional Summary
 
