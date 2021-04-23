@@ -1,4 +1,4 @@
-# First Last
+# First Last (pronouns)
 
 ## :mortar_board: Professional Summary
 
@@ -10,4 +10,4 @@ A personal fun fact goes here.
 
 ## :white_check_mark: Best Practices Learning Goal
 
-A best practices learning goal goes here.
+A best practices learning goal that you intend to implement goes here.
