@@ -2,7 +2,7 @@
 
 ## :mortar_board: Professional Summary
 
-A professional summary consistening of 2 or 3 sentences goes here.
+A professional summary consisting of 2 or 3 sentences goes here.
 
 ## :smile: Personal Fun Fact
 
