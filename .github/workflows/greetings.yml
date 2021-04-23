@@ -6,7 +6,7 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/first-interaction@v1
+    - uses: actions/first-interaction@v1.1.0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        pr-message: 'Hi @${{ github.actor }}, thank you for proposing your changes and submitting your first pull request as part of the Git Goals Tutorial! One of the Start Your Lab team members will be review your request soon.'
+        pr-message: 'Hi @${{ github.actor }}, well done! Thank you for proposing your changes and submitting your first pull request as part of the **Git Goals Tutorial**! One of the Start Your Lab team members will review your request soon.'
