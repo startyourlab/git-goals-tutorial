@@ -1,0 +1,12 @@
+name: Welcome
+
+on: [pull_request]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        pr-message: 'Hi @${{ github.actor }}, thank you for proposing your changes and submitting your first pull request! One of the Start Your Lab team members will be review your request soon.'
