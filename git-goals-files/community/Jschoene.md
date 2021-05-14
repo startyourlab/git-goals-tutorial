@@ -2,7 +2,7 @@
 
 ## :mortar_board: Professional Summary
 
- am a DPhil candidate in the Emotion & Social Relation Lab, supervised by Professor Brian Parkinson (University of Oxford | Experimental Psychology Department), Dr Scott Hale (University of Oxford | Oxford Internet Institute), and Professor Amit Goldenberg (Harvard University | Harvard Business School). In my research I investigate the spread of emotions in groups, specifically in the political context. My work aims to not only deepen our scientific understanding of social interactions and emotions, but also to inform policy makers and social media providers on how to prevent negative consequences of social media. 
+I am a DPhil candidate in the Emotion & Social Relation Lab, supervised by Professor Brian Parkinson (University of Oxford | Experimental Psychology Department), Dr Scott Hale (University of Oxford | Oxford Internet Institute), and Professor Amit Goldenberg (Harvard University | Harvard Business School). In my research I investigate the spread of emotions in groups, specifically in the political context. My work aims to not only deepen our scientific understanding of social interactions and emotions, but also to inform policy makers and social media providers on how to prevent negative consequences of social media. 
 
 ## :smile: Personal Fun Fact
 
